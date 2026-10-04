@@ -14,8 +14,19 @@ def check(numbers):
 print("Before:", my_list)
 check(my_list)
 print("After:", my_list)
+
+
 def reset(numbers):
     numbers = [100]
 
 reset(my_list)
 print(my_list)
+
+my_list = [1, 2, 3]
+
+def reset(numbers):
+    print(id(numbers) == id(my_list))
+    numbers = [100]
+    print(id(numbers) == id(my_list))
+
+reset(my_list)
