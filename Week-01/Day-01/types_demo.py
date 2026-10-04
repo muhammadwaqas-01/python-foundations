@@ -4,7 +4,7 @@ Name = 'Muhammad Waqas'
 my_list = [1,2,3,4,5]
 my_tuple = (5,4,3,2,1)
 my_dic = {"Name":'Muhammad Waqas','Age': 20}
-my_set = (2,3,4,5,6,6)
+my_set = {2,3,4,5,6,6}
 
 
 print(type(num))
