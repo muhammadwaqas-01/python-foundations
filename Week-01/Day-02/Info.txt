@@ -1,0 +1,4 @@
+Hi,I'm Waqas!
+It's day 2 of learning python!
+Today the topic is file handling
+I learend ,how to read a file.
