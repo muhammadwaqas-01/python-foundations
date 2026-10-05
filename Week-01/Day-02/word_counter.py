@@ -1,16 +1,6 @@
 from pathlib import Path
 Base = Path(__file__).parent
 
-with open(Base/"Story.txt","w") as f:
-    f.write(
-        "Waqas went to the park in the morning.\n"
-        "The park was quiet, and Waqas enjoyed the fresh air.\n"
-        "He sat under a tree and read a small book.\n"
-        "The book was interesting, so Waqas read the book again.\n"
-        "After reading, Waqas walked around the park and smiled.\n"
-        "The morning was peaceful, and the park felt beautiful."
-    )
-
 def read_text(path):
     try:
         with open(path,"r") as f:
