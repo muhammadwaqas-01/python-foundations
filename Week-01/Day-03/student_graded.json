@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ali",
+    "marks": 85,
+    "grade": "B"
+  },
+  {
+    "name": "Sara",
+    "marks": 92,
+    "grade": "A"
+  },
+  {
+    "name": "Ahmed",
+    "marks": 73,
+    "grade": "C"
+  },
+  {
+    "name": "Ayesha",
+    "marks": 88,
+    "grade": "B"
+  },
+  {
+    "name": "Hamza",
+    "marks": 20,
+    "grade": "C"
+  },
+  {
+    "name": "Zainab",
+    "marks": 95,
+    "grade": "A"
+  },
+  {
+    "name": "Usman",
+    "marks": 90,
+    "grade": "B"
+  },
+  {
+    "name": "Hina",
+    "marks": 67,
+    "grade": "C"
+  }
+]
