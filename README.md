@@ -32,6 +32,12 @@ Week-01/
 - `files_basic.py`: write, append and read files, and handle a missing file
 - `word_counter.py`: counts words in a text file and prints the top 5
 
+### Day 3
+- `comprehensions.py`: list and dict comprehensions
+- `math_utils.py` and `app.py`: my own module, imports, and `if __name__ == "__main__"`
+- `csv_reader.py`: reads `students.csv`, skips invalid rows, prints statistics
+- `json_demo.py`: writes and reads JSON, adds grades, handles broken or missing files
+
 ## How to run
 ```
 python Week-01/Day-02/word_counter.py
